@@ -1,0 +1,6 @@
+﻿  main.c
+F:\bitC语言\2019\_5_10\_5_10\main.c(18,5): warning C4013: “sum”未定义；假设外部返回 int
+F:\bitC语言\2019\_5_10\_5_10\main.c(168,5): warning C4013: “UI”未定义；假设外部返回 int
+F:\bitC语言\2019\_5_10\_5_10\main.c(174,8): warning C4013: “game”未定义；假设外部返回 int
+F:\bitC语言\2019\_5_10\_5_10\main.c(83): warning C4716: “GongYueShuMax”: 必须返回一个值
+  _5_10.vcxproj -> F:\bitC语言\2019\_5_10\Debug\_5_10.exe
